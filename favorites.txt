@@ -1,3 +1,11 @@
+Favorite Foods:
+---------------
 Steak
 Chicken
 Spagetti
+
+Favorite Movies:
+----------------
+Truman Show
+Joker
+Rain Man
