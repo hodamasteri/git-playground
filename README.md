@@ -1,5 +1,5 @@
-# My Notes from [The Git and GitHub Bootcamp Course] (https://www.udemy.com/course/git-and-github-bootcamp/)
-
+# [My Notes from The Git and GitHub Bootcamp Course](https://www.udemy.com/course/git-and-github-bootcamp/)
+--- 
 ## Config
 
 Set your username and email:
