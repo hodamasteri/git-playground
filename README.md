@@ -7,7 +7,7 @@
 Set your username and email:
 
 ```
-git config --global user.name “First name and last name”
+git config --global user.name "First name and last name"
 git config --global user.email  username@domain.extension
 ```
 
@@ -45,13 +45,13 @@ To create a new repository with a specific project folder name, you can do:
 
 `git commit`: opens the default editor for entering the commit message (recommended when commit message is longer than 50 chars). You can set your default editor to Vscode using git config --global core.editor "code --wait" and verify the change using git config --global core.editor. It should now display "code --wait."
 
-`git commit -m “message”`: Enables you to include a commit message while creating a commit.
+`git commit -m "message"`: Enables you to include a commit message while creating a commit.
 
-`git commit -am “message”`: add previously tracked file(s) that are modified into the staging area and commit in one line! Won’t work on untracked files that you just created after the last commit.
+`git commit -am "message"`: add previously tracked file(s) that are modified into the staging area and commit in one line! Won’t work on untracked files that you just created after the last commit.
 
 **Commit message best practices:**
 
-A well-formed commit message typically consists of a short subject line (around 50 characters or less) written in the imperative mood (e.g., “fix bugs”; not “fixes bugs” or “fixed bugs”), summarizing the main change. Optionally, it may be followed by a more detailed body providing additional context and explaining the reasons for the change, using bullet points for lists if necessary. Including references to relevant issues or tickets is helpful, and it's crucial to stay consistent with the project's style (go by your organization’s guidelines for writing commit messages).
+A well-formed commit message typically consists of a short subject line (around 50 characters or less) written in the imperative mood (e.g., "fix bugs"; not "fixes bugs" or "fixed bugs"), summarizing the main change. Optionally, it may be followed by a more detailed body providing additional context and explaining the reasons for the change, using bullet points for lists if necessary. Including references to relevant issues or tickets is helpful, and it's crucial to stay consistent with the project's style (go by your organization’s guidelines for writing commit messages).
 
 Example:
 
