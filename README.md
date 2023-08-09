@@ -73,7 +73,7 @@ git add forgotten_file
 git commit --amend
 ```
 
-Amend only works with the most recent commit not earlier ones. Ammend also provides another functionality: You can modify the message of the **most recent commit**. This is particularly useful for fixing typos or making other necessary adjustments to the commit message.
+Amend only works with the most recent commit not earlier ones. Amend also provides another functionality: You can modify the message of the **most recent commit**. This is particularly useful for fixing typos or making other necessary adjustments to the commit message.
 
 ### Ignoring files
 
