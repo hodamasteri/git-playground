@@ -70,7 +70,7 @@ Imagine a situation where you've just executed a commit using `git commit -m "Ad
 
 ```
 git add forgotten_file
-git commit –amend
+git commit --amend
 ```
 
 Amend only works with the most recent commit not earlier ones. Ammend also provides another functionality: You can modify the message of the **most recent commit**. This is particularly useful for fixing typos or making other necessary adjustments to the commit message.
